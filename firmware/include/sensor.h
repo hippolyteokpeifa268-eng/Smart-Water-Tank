@@ -3,5 +3,5 @@
 class SensorManager {
 public:
     void begin();
-    float getWaterLevel();
+    float getWaterLevelPercentage(); // Retourne le niveau converti en %
 };
