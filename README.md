@@ -1,2 +1,7 @@
-# Smart-Water-Tank
-Système intelligent de gestion et de surveillance de réservoir d'eau.
+# Smart Water Tank Monitor
+
+Industrial IoT Project
+
+Author : Hippolyte
+
+Status : In Development
